@@ -1,0 +1,80 @@
+html {
+	tamaño de fuente :  16 px ;
+    familia de fuentes :  'Lato' , sans-serif;
+}
+
+cuerpo {
+	color de fondo :  # 9AD1ED ;
+}
+
+. contenedor {
+	ancho máximo :  450 px ;
+	altura : auto;
+	color de fondo :  # EFEFEF ;
+	margen :  5 % automático;
+	fondo acolchado :  1 rem ;
+
+}
+
+. form__top {
+	ancho :  100 % ;
+	alineación de texto : centro;
+	acolchado :  2 rem  0  1 rem ;
+	borde superior : sólido .4 rem  # F39B53 ;
+	margen inferior :  1 rem ;
+}
+
+. form__top  h2 {
+	font-weight : negrita;
+	color :  # CAC8C8 ;
+	tamaño de fuente :  18 px ;
+}
+
+h2  span {
+	color :  # F39B53 ;
+}
+
+. form__reg {
+	acolchado :  0  2 rem ;
+	pantalla : flex;
+	flex-direction : columna;
+	justificar-contenido : centro;
+}
+
+. btn__form {
+	pantalla : flex;
+	justificar-contenido : espacio alrededor;
+	margen superior :  1 rem ;
+}
+
+. de entrada , . btn__submit , . btn__reset {
+	color de fondo :  # EFEFEF ;
+	acolchado :  .5 rem ;
+	margen :  .5 rem  0 ;
+	borde : ninguno;
+	borde inferior : sólido # C8C8C8  .2 rem ;
+	transición : todos .5 s ;
+}
+
+. input : focus {
+	borde inferior : sólido # F39B53  .2 rem ;
+}
+
+. btn__submit , . btn__reset {
+	ancho :  40 % ;
+	borde inferior : ninguno;
+	color de fondo :  # 31B1E5 ;
+	color : blanco;
+}
+
+. btn__reset {
+	color de fondo :  # EDA135 ;
+}
+
+. btn__submit : hover {
+	color de fondo :  # 4C9ED9 ;
+}
+
+. btn__reset : hover {
+	color de fondo :  # FA9535 ;
+} 
